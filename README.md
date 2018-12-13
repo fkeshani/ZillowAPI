@@ -1,7 +1,7 @@
 # ZillowAPI
 This is API Project
 
-# rspec-faraday-test
+# Rspec & Faraday
  API integration test coding challenge targeting the Zillow Website (https://www.zillow.com/howto/api/APIOverview.htm).
 
 ### Dependencies:
@@ -10,7 +10,7 @@ This is API Project
 ### Installation:
 ```
 git clone 
-cd rspec-faraday-test
+cd Zillowapi
 bundle install --path=vendor/bundle
 ```
 
