@@ -10,7 +10,7 @@ This is API Project
 ### Installation:
 ```
 git clone 
-cd Zillowapi
+cd cd ZillowAPI-master
 bundle install --path=vendor/bundle
 ```
 
