@@ -10,7 +10,8 @@ These instructions will get you a copy of the project up and running
 on your local machine for development and testing purposes.
 We are going to verify the response status and body of API when we send request to Zillow 
 
-Our criteria :
+Our Criteria
+
 Address  : 2114 Bigelow Ave
 City     : SEATTLE
 State    : WA
