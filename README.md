@@ -13,7 +13,7 @@ For API Testing , Get a Zillow Web Services ID (ZWSID) to use when making your A
 
 ### Dependencies:
 ```
-A recent version of Ruby with Bundler installed (`gem install bundler`).
+Having Install A recent version of Ruby with Bundler installed (`gem install bundler`).
 ```
 
 ### Installation:
