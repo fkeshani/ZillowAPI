@@ -6,7 +6,16 @@ using Ruby, RSpec, and Faraday.
 
 ### Getting Started:
 ```
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running 
+on your local machine for development and testing purposes.
+We are going to verify the response status and body of API when we send request to Zillow 
+
+Our criteria :
+Address  : 2114 Bigelow Ave
+City     : SEATTLE
+State    : WA
+ZipID    : 48749425
+Homelink : https://www.zillow.com/homedetails/2114-Bigelow-Ave-N-Seattle-WA-98109/48749425_zpid
 ```
 
 ### Prerequisites:
