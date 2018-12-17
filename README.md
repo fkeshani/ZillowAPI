@@ -21,7 +21,8 @@ Homelink : https://www.zillow.com/homedetails/2114-Bigelow-Ave-N-Seattle-WA-9810
 
 ### Prerequisites:
 ```
-For API Testing , Get a Zillow Web Services ID (ZWSID) to use when making your API calls by Create a free Zillow account
+For API Testing , Get a Zillow Web Services ID (ZWSID) 
+Use ZWSID when making your API calls by Create a free Zillow account
 ```
 
 ### Dependencies & Requirements:
