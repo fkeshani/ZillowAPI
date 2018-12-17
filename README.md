@@ -27,7 +27,7 @@ bundle install --path=vendor/bundle
 
 ### Execution and Running the tests:
 ```
-bundle exec rspec
+Run this command on path project Directory: bundle exec rspec
 ```
 
 ### Authors
