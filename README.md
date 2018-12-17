@@ -21,7 +21,7 @@ Having Install A recent version of Ruby with Bundler installed (`gem install bun
 ### Installation:
 ```
 git clone 
-cd cd ZillowAPI-master
+cd ZillowAPI-master
 bundle install --path=vendor/bundle
 ```
 
