@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites:
 ```
-For API Testing , Get a Zillow Web Services ID (ZWSID) to use when making your API calls by Create a free Zillow account here [Zillow](https://www.zillow.com/webservice/Registration.htm)
+For API Testing , Get a Zillow Web Services ID (ZWSID) to use when making your API calls by Create a free Zillow account
 ```
 
 ### Dependencies & Requirements:
