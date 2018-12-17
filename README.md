@@ -1,5 +1,7 @@
 # Automate API
+```
 This API Test Project Targeting Search Particular Property and verify the response status at Zillow website using Ruby, RSpec, and Faraday.
+```
 
 ### Getting Started:
 ```
