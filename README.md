@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 For API Testing , Get a Zillow Web Services ID (ZWSID) to use when making your API calls.
 ```
 
-### Dependencies:
+### Dependencies & Requirements:
 ```
 Having Install A recent version of Ruby with Bundler installed (`gem install bundler`).
 ```
